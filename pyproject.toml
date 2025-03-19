@@ -10,6 +10,8 @@ readme = "README.md"
 python = "^3.10"
 gym-super-mario-bros = "^7.4.0"
 numpy = "<1.24"
+flower = "^2.0.1"
+torchrl = "^0.7.2"
 
 
 [build-system]

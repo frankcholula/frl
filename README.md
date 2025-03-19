@@ -1,2 +1,2 @@
-# frl
-Federated Reinforcement Learning Experiments
+# FRL
+Running some federated reinforcement learning experiments.
